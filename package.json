@@ -1,0 +1,23 @@
+{
+  "name": "bananaapp",
+  "version": "1.0.0",
+  "description": "test app for github",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mainrepo-reddolphincouk/BananaApp.git"
+  },
+  "author": "Alex Chapman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mainrepo-reddolphincouk/BananaApp/issues"
+  },
+  "homepage": "https://github.com/mainrepo-reddolphincouk/BananaApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
